@@ -3,10 +3,10 @@
 <div id="bdl"></div>
 
 * [Basic digital Literacy](./1_bdl/)
-    * [Slack](https://github.com/./help-and-reference/tree/main/1_bdl/1_slack)
-        * [Einrichtung](https://github.com/./help-and-reference/blob/main/1_bdl/1_slack/setup.md)
-        * [Benutzung](https://github.com/./help-and-reference/blob/main/1_bdl/1_slack/usage.md)
-    * [Zoom](https://github.com/./help-and-reference/blob/main/1_bdl/2_zoom)
+    * [Slack](./1_bdl/1_slack)
+        * [Einrichtung](./1_bdl/1_slack/setup.md)
+        * [Benutzung](./1_bdl/1_slack/usage.md)
+    * [Zoom](./1_bdl/2_zoom)
         * [Einrichtung](https://github.com/./help-and-reference/blob/main/1_bdl/2_zoom/setup.md)
         * [Fragen und Antworten](https://github.com/./help-and-reference/blob/main/1_bdl/2_zoom/questions.md)
     * [Linux](https://github.com/./help-and-reference/blob/main/1_bdl/3_linux)
